@@ -1,0 +1,10 @@
+﻿  pilas_colas.cpp
+D:\Proyectos vs 2019\pilas_colas\pilas_colas\pilas_colas.cpp(67,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\Proyectos vs 2019\pilas_colas\pilas_colas\pilas_colas.cpp(65,23): warning C4101: 'pilaaux': variable local sin referencia
+D:\Proyectos vs 2019\pilas_colas\pilas_colas\pilas_colas.cpp(122,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\Proyectos vs 2019\pilas_colas\pilas_colas\pilas_colas.cpp(120,23): warning C4101: 'pilaaux': variable local sin referencia
+D:\Proyectos vs 2019\pilas_colas\pilas_colas\pilas_colas.cpp(180,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\Proyectos vs 2019\pilas_colas\pilas_colas\pilas_colas.cpp(178,23): warning C4101: 'pilaaux': variable local sin referencia
+D:\Proyectos vs 2019\pilas_colas\pilas_colas\pilas_colas.cpp(236,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\Proyectos vs 2019\pilas_colas\pilas_colas\pilas_colas.cpp(234,23): warning C4101: 'pilaaux': variable local sin referencia
+  pilas_colas.vcxproj -> D:\Proyectos vs 2019\pilas_colas\Debug\pilas_colas.exe
